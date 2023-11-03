@@ -11,7 +11,7 @@ Explore Indian Airlines Ticket Price Analysis on PowerBI. Unveil insights into p
 
 ### Click on the thumbnail to Watch:
 
-[![Click to Watch](https://drive.google.com/file/d/1T1JDkITZZBdhmOLdG5Tf9OCksxKVJ5Jq/view?usp=sharing)](https://drive.google.com/file/d/1sMwqlqcpH-LD5XWSzrycvQEVxlwxm2Lr/view?usp=sharing)
+[![Click to Watch](https://drive.google.com/file/d/1T1JDkITZZBdhmOLdG5Tf9OCksxKVJ5Jq)](https://drive.google.com/file/d/1sMwqlqcpH-LD5XWSzrycvQEVxlwxm2Lr/view?usp=sharing)
 
 ## Technologies Used
 - Python
